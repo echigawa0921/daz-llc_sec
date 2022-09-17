@@ -449,6 +449,7 @@ forwards：アニメーション終了時の状態をそのまま維持
 /* table01 */
 #table01 tr {
   border-bottom: 1px solid #b5b1b1;
+  padding: 0;
 }
 
 #table01 th,
@@ -479,12 +480,12 @@ forwards：アニメーション終了時の状態をそのまま維持
   .google-contents{
     width: auto;
     font-weight: bolder;
+    margin: 0;
   }
   .oogaiyou{
     text-align: center;
     width: 370px;
-    padding-left: 35px;
-    margin-left: 7px;
+    padding-left: 20px;
     font-size: 15px;
     margin-bottom: 100px;
   }
@@ -501,7 +502,7 @@ forwards：アニメーション終了時の状態をそのまま維持
     border-bottom: 3px solid black;
   }
   .google-contents{
-    padding: 0%;
+    padding: 0;
     margin: 0;
     width: auto;
     font-size: 5px;
@@ -785,9 +786,6 @@ Entry
 SP
 -------------------------------------------*/
 @media screen and (max-width: 900px) {
-  .wrapper {
-    padding: 0 16px;
-  }
   .section-title {
     font-size: 1.75rem;
     margin-bottom: 30px;
