@@ -1002,6 +1002,7 @@ SP
   -------------------------------------------*/
   #footer .inner {
     flex-wrap: wrap;
+    padding-left: 10px;
   }
   #footer a {
     font-size: 0.75rem;
