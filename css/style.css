@@ -855,14 +855,15 @@ SP
   Mainvisual
   -------------------------------------------*/
   #mainvisual {
-    height: 490px;
+    height: 700px;
     margin-bottom: 80px;
   }
   #mainvisual .fade li {
     width: 100%;
   }
   #mainvisual .fade li img {
-    height: 300px;
+    height: 780px;
+    margin-bottom: 50px;
   }
   #mainvisual .text {
     /* 両端に16pxづつ余白を作る */
@@ -873,6 +874,7 @@ SP
   #mainvisual .text .title {
     font-size: 1.75rem;
     margin-bottom: 10px;
+    margin-top: 100px;
   }
   #mainvisual .text .btn {
     width: 100%;
@@ -882,6 +884,7 @@ SP
   Reason
   -------------------------------------------*/
   #reason {
+    margin-top: 100px;
     margin-bottom: 80px;
   }
   #reason .bg {
@@ -892,6 +895,9 @@ SP
   }
   #reason .slide .title {
     font-size: 1.5rem;
+  }
+  #reason .slide img {
+    height: 70px;
   }
   @keyframes slide-left {
     0% {
