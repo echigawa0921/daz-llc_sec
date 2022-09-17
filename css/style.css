@@ -855,14 +855,14 @@ SP
   Mainvisual
   -------------------------------------------*/
   #mainvisual {
-    height: 700px;
+    height: 600px;
     margin-bottom: 80px;
   }
   #mainvisual .fade li {
     width: 100%;
   }
   #mainvisual .fade li img {
-    height: 780px;
+    height: 680px;
     margin-bottom: 50px;
   }
   #mainvisual .text {
