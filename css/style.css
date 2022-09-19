@@ -405,7 +405,7 @@ Reason
 }
 #reason .slide .text {
   display: block;
-  font-size: 1.125rem;
+  font-size: 1.525rem;
 }
 #reason .inview-slide-left {
   border-top-right-radius: 20px;
@@ -659,7 +659,7 @@ infinite：アニメーションの繰り返し回数(無限に繰り返す)
 linear：アニメーションの変化（開始から終了まで一定に変化）
 */
 #summary {
-  background: url("https://github.com/echigawa0921/daz-llc_sec/blob/main/img_mizudou/5F8RMd7Ej84TKF31663397193_1663401678.gif?raw=true") repeat;
+  background-color: 	#A4C6FF;
   animation: fall 10s infinite linear;
   padding: 60px 0;
   margin-bottom: 120px;

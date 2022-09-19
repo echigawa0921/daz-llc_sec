@@ -15,7 +15,7 @@
   
   .lp-sec-image > .lp-block > .lp-text {
     margin-top: 1.6rem;
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: center;
     line-height: 1.5;
     font-family: "M PLUS 1p";
@@ -70,7 +70,7 @@
   
   .lp-sec-image--center > .lp-block > .lp-item .lp-item__contents > .lp-text {
     margin-top: 1.6rem;
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: center;
     font-family: "M PLUS 1p";
     line-height: 1.5;
